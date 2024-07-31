@@ -1,86 +1,28 @@
-html lang="ja">
- 
-<head>
- 
-<meta charset="UTF-8">
- 
-<title>履歴書</title>
+<!DOCTYPE html> 
+<html lang="ja"> 
 
- <link rel="stylesheet" href="style.css">
- 
-</head>
- 
+ <head>
+<meta charset="UTF-8"> 
+<title>春学期プロジェクト</title> 
+<link rel="stylesheet" href="mystyle.css">
+<script src="myjs.js"></script> 
+</head> 
+
 <body>
- 
-<header>
- <h1>履歴書</h1>
- <nav>
-  <ul>
-   <li><a href="index.html">ホーム</a></li>
-  <li><a href="contact.html">連絡先</a></li>
-  </ul>
- </nav>
-</header>
- <main>
-  <section class="profile">
-  <img src="profile.jpg" alt="プロフィール画像" class="profile-img">
-  <h2>氏名</h2>
-  <p><ruby>金山　翔太<rt>カナヤマ　ショウタ</rt></ruby></p>
-  </section>
-  <section class="details">
-   <div class="detail-item">
-    <h2>生年月日</h2>
-    <p>2004年４月1４日</p>
-   </div>
-   <div class="detail-item">
-  <h2>性別</h2>
-  <p>男性</p>
-   </div>
-   <div class="detail-item">
-  <h2>職歴</h2>
-  <ul>
-   <li>2020 - 現在:金山株式会社、　マネジメント部長</li>
-  <li>2018 -2020　城西有限会社、　環境デザイナー</li>
-  </ul>
-   </div>
-   <div class="detail-item">
-  <h2>学歴</h2>
-  <ul>
-   <li>2014 - 2018:東京大学、　法学部</li>
-  </ul>
-   </div>
-   <div class="detail-item">
-  <h2>資格・免許</h2>
-  <ul>
-   <li>パソコン検定１級</li>
-   <li>カタツムリソムリエ検定</li>
-  </ul>
-   </div>
-   <div class="detail-item">
-  <h2>趣味</h2>
-  <ul>
-   <li>山登り</li>
-   <li>旅行</li>
-  </ul>
-   </div>
-   <div class="detail-item">
-  <h2>特技</h2>
-  <ul>
-   <li>ジャンプ力が高い</li>
-   <li>賭け事が強い</li>
-  </ul>
-   </div>
-   <div class="detail-item">
-  <h2>志望動機</h2>
-  <p>自分の限界を知りたいから。</p>
-   </div>
-   <div class="detail-item">
-  <h2>自己アピール</h2>
-  <p>私の強みは何事にも挑戦することです。</p>
-   </div>
- </section>
- </main>
- 
+<h1>日本ソフトテニスプロ選手について</h1>
+ <h2>上岡俊介</h2>
+ <p>2019年に日本で初めてのソフトテニスのプロ選手になる</p>
+写真をクリックすると公式サイトへ
+
+ <a href=" https://hayato-funemizu.com/">
+ <img src="./image/m56594518414_1.jpg" alt></a>
+
+ <p><a href="ry.html#def">好きな写真</a></p>
+<p>主な実績</p>
+<p>天皇杯優勝4回</p>
+<p>全日本シングルス優勝4回</p>
+<p>2016年アジア選手権 ミックスダブルス、ダブルス、国別対抗の3種目で金メダル獲得</p>
+<p>全日本シングルス史上最年少優勝（18歳113日）</p>
+ <p><a href="ry.html#def">好きな写真</a></p>
 </body>
- 
-</html>
+      </html>
